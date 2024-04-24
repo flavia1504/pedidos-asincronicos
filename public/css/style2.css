@@ -13,7 +13,7 @@
   
   header button {
     margin: 2%;
-    background-image: linear-gradient(120deg, #fbc2eb 0%, #a6c1ee 100%);
+    background-image: linear-gradient(120deg, #96d3a0 0%, #a6c1ee 100%);
   }
   header button a{
     font-size: 18px;
@@ -27,7 +27,7 @@
   h1 {
     text-align: center;
     padding: 1.5rem 2.5rem;
-    background-image: linear-gradient(120deg, #fbc2eb 0%, #a6c1ee 100%);
+    background-image: linear-gradient(120deg, #79d0db 0%, #a6c1ee 100%);
     margin: 0 0 2rem 0;
     font-size: 1.5rem;
     color: white;
@@ -67,7 +67,7 @@
   }
   .botonAgregar , .botonModificar{
     color: white;
-    background-image: linear-gradient(120deg, #fbc2eb 0%, #a6c1ee 100%);
+    background-image: linear-gradient(120deg, #60dac5 0%, #a6c1ee 100%);
     font-size: 1rem;
     padding: 10px;
     border-radius: 10px;
@@ -76,7 +76,7 @@
   }
   .botonBorrar{
     color: white;
-    background-image: linear-gradient(120deg, #BB2D3B 0%, #a6c1ee 100%);
+    background-image: linear-gradient(120deg, #4e1dc0 0%, #a6c1ee 100%);
     padding: 10px;
     border-radius: 10px;
     border: 0;
@@ -110,13 +110,13 @@
   }
   
   .card:nth-child(2n) h1 {
-    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+    background-image: linear-gradient(120deg, #f83eba 0%, #8fd3f4 100%);
   }
   
   .card:nth-child(4n) h1 {
-    background-image: linear-gradient(120deg, #ff9a9e 0%, #fecfef 100%);
+    background-image: linear-gradient(120deg, #cf66b8 0%, #fecfef 100%);
   }
   
   .card:nth-child(5n) h1 {
-    background-image: linear-gradient(120deg, #ffc3a0 0%, #ffafbd 100%);
+    background-image: linear-gradient(120deg, #ffa0db 0%, #ffafbd 100%);
   }
